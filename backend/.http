@@ -1,0 +1,23 @@
+POST http://localhost:3000/api/user HTTP/1.1
+content-type: application/json
+
+{
+    "username": "ntmkhanh",
+    "passwd": "123456",
+    "Fullname": "Nguyen Thi My Khanh",
+    "email": "khanhb1910657@student.ctu.edu.vn",
+    "loaitaikhoan": 0,
+    "phone": "0976038762"
+}
+###
+POST http://localhost:3000/api/user HTTP/1.1
+content-type: application/json
+
+{
+    "username": "nhnghia",
+    "matkhau": "123456",
+    "Fullname": "Nguyen Hieu Nghia",
+    "email": "nghia@student.ctu.edu.vn",
+    "loaitaikhoan": 0,
+    "phone": "0976038763"
+}
