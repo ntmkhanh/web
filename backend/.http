@@ -4,9 +4,9 @@ content-type: application/json
 {
     "username": "ntmkhanh",
     "passwd": "123456",
-    "Fullname": "Nguyen Thi My Khanh",
+    "name": "Nguyen Thi My Khanh",
     "email": "khanhb1910657@student.ctu.edu.vn",
-    "loaitaikhoan": 0,
+    "loaiTK": 0,
     "phone": "0976038762"
 }
 ###
